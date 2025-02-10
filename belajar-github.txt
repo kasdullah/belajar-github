@@ -1,3 +1,4 @@
 belajar github untuk pertama kali
-ini merupakan contoh isi
+ini 
 ini merupakan contoh file yang di edit/ditambahkan
+ditambahkan merupakan contoh isi
